@@ -1,6 +1,6 @@
-import mongoose, { Schema } from "mongoose";
+import mongoose from "mongoose";
 
-const SChema = mongoose.Schema;
+const Schema = mongoose.Schema;
 
 const Tools = new Schema({
 
